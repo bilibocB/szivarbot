@@ -100,3 +100,11 @@ client.on('messageCreate', async (message) => {
 // 🔹 Token beillesztése (.env-ből)
 require('dotenv').config();
 client.login(process.env.BOT_TOKEN);
+
+const express = require('express');
+const app = express();
+
+app.get('/', (req, res) => res.send('SzivarBot is running!'));
+app.listen(process.env.PORT || 3000, () => {
+  console.log('🌐 Webserver running (Render keep-alive)');
+});
