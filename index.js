@@ -109,3 +109,19 @@ app.get('/', (req, res) => res.send('SzivarBot is running!'));
 app.listen(process.env.PORT || 3000, () => {
   console.log(`🌐 Webserver running on port ${process.env.PORT || 3000}`);
 });
+
+function keepAliveReconnect() {
+  console.log("⏳ Checking bot connection...");
+
+  if (!client.isReady()) {
+    console.log("⚠️ Bot is not connected — reconnecting...");
+    client.login(process.env.BOT_TOKEN)
+      .then(() => console.log("✅ Reconnected successfully"))
+      .catch(err => console.error("❌ Reconnect failed:", err));
+  } else {
+    console.log("✅ Bot connection is healthy.");
+  }
+}
+
+// Ellenőrzi 5 percenként (300 000 ms)
+setInterval(keepAliveReconnect, 300000);
