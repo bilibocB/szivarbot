@@ -101,10 +101,11 @@ client.on('messageCreate', async (message) => {
 require('dotenv').config();
 client.login(process.env.BOT_TOKEN);
 
+// Keep-alive webserver for Render free plan
 const express = require('express');
 const app = express();
 
 app.get('/', (req, res) => res.send('SzivarBot is running!'));
 app.listen(process.env.PORT || 3000, () => {
-  console.log('🌐 Webserver running (Render keep-alive)');
+  console.log(`🌐 Webserver running on port ${process.env.PORT || 3000}`);
 });
