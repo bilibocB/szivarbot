@@ -1,9 +1,10 @@
 {
   "name": "szivarbot",
   "version": "1.0.0",
-  "description": "",
+  "description": "Discord bot, ami szivaros trafikokat keres magyar városokban.",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
