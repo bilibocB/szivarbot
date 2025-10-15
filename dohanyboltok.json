@@ -1,0 +1,3546 @@
+[
+  {
+    "name": "Cigiszünet",
+    "postalCode": "2700",
+    "city": "Cegléd",
+    "address": "Szent Imre Herceg utca 13.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Cigiszünet Bt",
+    "postalCode": "2700",
+    "city": "Cegléd",
+    "address": "Déli út 25-27",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "For Use Cigar Bt",
+    "postalCode": "2700",
+    "city": "Cegléd",
+    "address": "Kossuth Ferenc utca 43",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Takács Hajnalka ev.",
+    "postalCode": "2700",
+    "city": "Cegléd",
+    "address": "Kőrösi út 3",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "For Use Cigar Bt",
+    "postalCode": "2700",
+    "city": "Cegléd",
+    "address": "Malomtó szél 1034/3",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Daru Árpád Sándor e.v.",
+    "postalCode": "6800",
+    "city": "Hódmezővásárhely",
+    "address": "Andrássy út 5-7",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Fekete Ferenc",
+    "postalCode": "6800",
+    "city": "Hódmezővásárhely",
+    "address": "Szent László utca 153.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Kiss Trafik Bt.",
+    "postalCode": "6800",
+    "city": "Hódmezővásárhely",
+    "address": "Damjanich utca 127.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "NAGY ÁGNES",
+    "postalCode": "6070",
+    "city": "Izsák",
+    "address": "Kossuth tér 10.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Gojtán Tamás ev.",
+    "postalCode": "6300",
+    "city": "Kalocsa",
+    "address": "Széchenyi út 13.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Mamiker Trafik Bt.",
+    "postalCode": "6000",
+    "city": "Kecskemét",
+    "address": "Zápor utca 2.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Filtol Bt.",
+    "postalCode": "6000",
+    "city": "Kecskemét",
+    "address": "Rákóczi út 6.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Mamiker Trafik Bt.",
+    "postalCode": "6000",
+    "city": "Kecskemét",
+    "address": "Katona József tér 6",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Tagu Duó Bt",
+    "postalCode": "6000",
+    "city": "Kecskemét",
+    "address": "Korona utca 2.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Pápics Viktor ev.",
+    "postalCode": "6000",
+    "city": "Kecskemét",
+    "address": "Könyves Kálmán körút 57",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Mamiker Trafik Bt.",
+    "postalCode": "6000",
+    "city": "Kecskemét",
+    "address": "Szent László körút 37.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Alap Trafik Bt.",
+    "postalCode": "6100",
+    "city": "Kiskunfélegyháza",
+    "address": "Dr. Holló Lajos utca 5.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Kapocsi Antal ev.",
+    "postalCode": "6400",
+    "city": "Kiskunhalas",
+    "address": "Thúry József u.4/a",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "C-Tabak Bt.",
+    "postalCode": "6760",
+    "city": "Kistelek",
+    "address": "Kossuth Lajos utca 2.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Szűcs Pál",
+    "postalCode": "6065",
+    "city": "Lakitelek",
+    "address": "Dr.Deák István 1/b",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Alföld Drink Bt.",
+    "postalCode": "2750",
+    "city": "Nagykőrös",
+    "address": "Kálvin téri Piac",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Ilyés és Társa Trafik BT",
+    "postalCode": "5900",
+    "city": "Orosháza",
+    "address": "Bajcsy-Zsilinszky 2",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Kárpáti János Gergő e.v.",
+    "postalCode": "6230",
+    "city": "Soltvadkert",
+    "address": "Dr. Gratzer István utca 3.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Primvill Bt.",
+    "postalCode": "6230",
+    "city": "Soltvadkert",
+    "address": "Kossuth Lajos utca 15.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Tóth Ferenc",
+    "postalCode": "5540",
+    "city": "Szarvas",
+    "address": "Vajda Péter út 16.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Ujvári Ernő e.v",
+    "postalCode": "6725",
+    "city": "Szeged",
+    "address": "Sárkány u 1",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "TOLDI TRAFIK BT.",
+    "postalCode": "6700",
+    "city": "Szeged",
+    "address": "Makai út 113.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Toldi Trafik bt.",
+    "postalCode": "6723",
+    "city": "Szeged",
+    "address": "Etelka sor 1.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "BEMESE TEAM BT.",
+    "postalCode": "6723",
+    "city": "Szeged",
+    "address": "Szentháromság u. 7.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Ménesi és Vörös Bt.",
+    "postalCode": "6720",
+    "city": "Szeged",
+    "address": "Somogyi u. 20",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Mészi-Szolg. Bt.",
+    "postalCode": "6600",
+    "city": "Szentes",
+    "address": "Kossuth Tér 5.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Vassné Fodor Éva",
+    "postalCode": "6035",
+    "city": "Ballószög",
+    "address": "Bem utca 53.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Spirit Room Italok Tárháza",
+    "postalCode": "2700",
+    "city": "Cegléd",
+    "address": "Mozdony utca 1.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Alföld Drink Bt.",
+    "postalCode": "2700",
+    "city": "Cegléd",
+    "address": "Mizsei út 34.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Jéri Trafik Bt.",
+    "postalCode": "6600",
+    "city": "Szentes",
+    "address": "Csongrádi utca 65.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Szakálné Trafik Bt.",
+    "postalCode": "6640",
+    "city": "Csongrád",
+    "address": "Árpád utca 33.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Nagy A Dohány Bt.",
+    "postalCode": "1211",
+    "city": "Budapest",
+    "address": "Szent Imre tér 19.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "P-SZ Tabak Bt.",
+    "postalCode": "1214",
+    "city": "Budapest",
+    "address": "Zrínyi utca 1. (SPAR)",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "P-SZ Tabak Bt.",
+    "postalCode": "1214",
+    "city": "Budapest",
+    "address": "Vénusz utca 13-15.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Vinos Trafik Bt.",
+    "postalCode": "1212",
+    "city": "Budapest",
+    "address": "Erdősor utca 133.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Dident Tobacco Bt.",
+    "postalCode": "1214",
+    "city": "Budapest",
+    "address": "Vénusz u. 33.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "GFAMILY TABAK Bt.",
+    "postalCode": "1098",
+    "city": "Budapest 09. ker.",
+    "address": "Dési Huber utca 20/A. fsz.15.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "LOTTOBACCO 7. Bt.",
+    "postalCode": "1074",
+    "city": "Budapest",
+    "address": "Dob utca 52.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Matusek Mónika Gyöngyi ev.",
+    "postalCode": "1087",
+    "city": "Budapest",
+    "address": "Kerepesi út 5.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Matusek Mónika Gyöngyi ev.",
+    "postalCode": "1066",
+    "city": "Budapest",
+    "address": "Zichy Jenő u. 1.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "AG TRAFIK Bt.",
+    "postalCode": "1065",
+    "city": "Budapest",
+    "address": "Podmaniczky utca 2.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Zália Dohány Bt.",
+    "postalCode": "1073",
+    "city": "Budapest",
+    "address": "Erzsébet krt. 56",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Zália Dohány Bt.",
+    "postalCode": "1062",
+    "city": "Budapest",
+    "address": "Oktogon tér 4.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Nyolcpipa Bt.",
+    "postalCode": "1082",
+    "city": "Budapest",
+    "address": "Baross utca 3.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Nyolcpipa Bt.",
+    "postalCode": "1082",
+    "city": "Budapest",
+    "address": "Leonardo Da Vinci utca 23.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Sztanó és társa Bt.",
+    "postalCode": "1088",
+    "city": "Budapest",
+    "address": "Rákóczi út 1-3. East-West Business Center földszint",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Szulimán Tobacco Bt.",
+    "postalCode": "1075",
+    "city": "Budapest",
+    "address": "Kazinczy utca 6/B",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Sztanó és Társa Bt.",
+    "postalCode": "1061",
+    "city": "Budapest",
+    "address": "Liszt Ferenc tér 4.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Rácz Tabak Bt.",
+    "postalCode": "1072",
+    "city": "Budapest",
+    "address": "Rákóczi út 36.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Trafikoord Sales Bt",
+    "postalCode": "1076",
+    "city": "Budapest",
+    "address": "Garay tér 2.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Hauck Tobacco Bt.",
+    "postalCode": "1072",
+    "city": "Budapest",
+    "address": "Dob utca 28-30.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Kobabe Szivar Bt.",
+    "postalCode": "1073",
+    "city": "Budapest",
+    "address": "Wesselényi u. 45.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Tason Cigarette Bt.",
+    "postalCode": "1071",
+    "city": "Budapest",
+    "address": "Wesselényi 2",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Shepherd Trafik Betéti Társaság",
+    "postalCode": "1078",
+    "city": "Budapest",
+    "address": "Nefelejcs utca 7.fsz/2.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Vsmith Tobacco Bt.",
+    "postalCode": "1088",
+    "city": "Budapest",
+    "address": "Rákóczi út 25.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Ozin Tobacco Bt.",
+    "postalCode": "1081",
+    "city": "Budapest",
+    "address": "Népszínház u. 13.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Gfamily Tabak Bt.",
+    "postalCode": "1087",
+    "city": "Budapest",
+    "address": "Kerepesi út 1-5.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Centrál Tabak Bt",
+    "postalCode": "1082",
+    "city": "Budapest",
+    "address": "Corvin köz 1",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Józsa Csaba Trafik Bt.",
+    "postalCode": "1014",
+    "city": "Budapest",
+    "address": "Tárnok utca 26.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Gego Cigarette Bt.",
+    "postalCode": "1011",
+    "city": "Budapest",
+    "address": "Fő utca 37/C.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Höchst Zsolt",
+    "postalCode": "2330",
+    "city": "Dunaharaszti",
+    "address": "Dózsa György út 3.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Passion Hungary Bt.",
+    "postalCode": "2300",
+    "city": "Ráckeve",
+    "address": "Kossuth Lajos utca 2.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Cseppentő Endre",
+    "postalCode": "2030",
+    "city": "Érd",
+    "address": "Budai út 11",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "OTIS Gazdasági Szolgáltató Bt.",
+    "postalCode": "2340",
+    "city": "Kiskunlacháza",
+    "address": "Dózsa györgy út 156.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Ujvári Trafik Bt.",
+    "postalCode": "2030",
+    "city": "Érd",
+    "address": "Felső utca 54",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Martonosi Trafik Bt.",
+    "postalCode": "2030",
+    "city": "Érd",
+    "address": "Budai utca 28.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Ermiág Dohány Bt.",
+    "postalCode": "2315",
+    "city": "Szigethalom",
+    "address": "József A. u. 4.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Szabóki Miklós Imre",
+    "postalCode": "2314",
+    "city": "Halásztelek",
+    "address": "Petőfi kert 1.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Kecse József",
+    "postalCode": "2315",
+    "city": "Szigethalom",
+    "address": "Mű út 5246/6",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Gallwitz-pipa Bt.",
+    "postalCode": "1053",
+    "city": "Budapest",
+    "address": "Kecskeméti utca 1.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Borsod Tabak Bt.",
+    "postalCode": "4400",
+    "city": "Nyíregyháza",
+    "address": "Debreceni út 246.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Borsod Tabak Bt.",
+    "postalCode": "4400",
+    "city": "Nyíregyháza",
+    "address": "Pazonyi út 37/A.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Borsod Tabak Bt.",
+    "postalCode": "4551",
+    "city": "Nyíregyháza",
+    "address": "Nyíregyházi út 2.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Csaba Trafik Bt",
+    "postalCode": "5600",
+    "city": "Békéscsaba",
+    "address": "Lencsési út 114/1.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Császár Trafik Bt.",
+    "postalCode": "4031",
+    "city": "Debrecen",
+    "address": "István út 137.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Császár Trafik Bt.",
+    "postalCode": "4031",
+    "city": "Debrecen",
+    "address": "Pesti u. 2.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Csizmadia Imre ev.",
+    "postalCode": "5711",
+    "city": "Gyula",
+    "address": "Temesvári út 169/A",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Deczki Lajos ev.",
+    "postalCode": "4027",
+    "city": "Debrecen",
+    "address": "Szabó Lőrinc u. 39/A",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Dohányfüst Felhő Kkt.",
+    "postalCode": "4400",
+    "city": "Nyíregyháza",
+    "address": "Vay Ádám krt. 10.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Flóra Press Bt.",
+    "postalCode": "5600",
+    "city": "Békéscsaba",
+    "address": "Andrássy út 51.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Garai Csaba ev.",
+    "postalCode": "4400",
+    "city": "Nyíregyháza",
+    "address": "Mező utca 15.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Gresó László",
+    "postalCode": "4400",
+    "city": "Nyíregyháza",
+    "address": "Korányi Frigyes út 18.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Hatvan-Tabak Bt.",
+    "postalCode": "4025",
+    "city": "Debrecen",
+    "address": "Hatvan utca 8",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Hegyi Ottó",
+    "postalCode": "5350",
+    "city": "Tiszafüred",
+    "address": "Szőlősi út 48.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Jakab Tabak Betéti Társaság",
+    "postalCode": "4400",
+    "city": "Nyíregyháza",
+    "address": "Kosbor utca 2-4.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Kincses Anikó",
+    "postalCode": "5700",
+    "city": "Gyula",
+    "address": "Kossuth tér 27-33.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Kincses Anikó",
+    "postalCode": "5700",
+    "city": "Gyula",
+    "address": "Leiningen utca 8.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Mészáros Imréné EV.",
+    "postalCode": "5000",
+    "city": "Szolnok",
+    "address": "Kossuth tér 3.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Orvos-Nagy László",
+    "postalCode": "5300",
+    "city": "Karcag",
+    "address": "Szent István sgt. 17.-19.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Piramis Ital Bt.",
+    "postalCode": "4027",
+    "city": "Debrecen",
+    "address": "Füredi u. 75.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Piskolty Tibor ev.",
+    "postalCode": "5700",
+    "city": "Gyula",
+    "address": "Béke sugárút 4.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Salánki Mária",
+    "postalCode": "4700",
+    "city": "Mátészalka",
+    "address": "Zöldfa utca 2-4.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "SLUCK SOFI 95 Bt.",
+    "postalCode": "4220",
+    "city": "Hajdúböszörmény",
+    "address": "Bánság tér 10",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Szabolcs Tabak Bt",
+    "postalCode": "4405",
+    "city": "Nyíregyháza",
+    "address": "Lujza u. 4b",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Szarka Ibolya",
+    "postalCode": "5321",
+    "city": "Kunmadaras",
+    "address": "Karcagi ut 21",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "SZILÁGYI FERENC EV.",
+    "postalCode": "4252",
+    "city": "Nyíradony",
+    "address": "Kossuth utca 16",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Szipe Tabak Bt.",
+    "postalCode": "4100",
+    "city": "Berettyóújfalu",
+    "address": "Oláh Zsigmond u. 1. 1.lph. fsz.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Trafik Corner Bt.",
+    "postalCode": "5600",
+    "city": "Békéscsaba",
+    "address": "Szabó Dezső utca 14-22",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Pethőné Hornyák Mariann",
+    "postalCode": "4337",
+    "city": "Jármi",
+    "address": "Széchenyi u. 8",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Rucz Noémi Ágnes",
+    "postalCode": "5600",
+    "city": "Békéscsaba",
+    "address": "Kazinczy utca 12.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Maklári Gergely",
+    "postalCode": "4600",
+    "city": "Kisvárda",
+    "address": "Városmajor utca 41.",
+    "lat": "48.2293112",
+    "lon": "22.070749"
+  },
+  {
+    "name": "Kaiser Ákos",
+    "postalCode": "7570",
+    "city": "Barcs",
+    "address": "Köztársaság u 47",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Suhajda Tabak Bt.",
+    "postalCode": "7150",
+    "city": "Bonyhád",
+    "address": "Deák Ferenc 10/A Dohánybolt",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Krähling József ev.",
+    "postalCode": "7150",
+    "city": "Bonyhád",
+    "address": "Széchenyi tér 11.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Szabó Zoltán ev.",
+    "postalCode": "7150",
+    "city": "Bonyhád",
+    "address": "Zrínyi utca 25.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "KK Trafik Bt.",
+    "postalCode": "7200",
+    "city": "Dombóvár",
+    "address": "Ady Endre utca 15.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Nikotikum Bt.",
+    "postalCode": "7200",
+    "city": "Dombóvár",
+    "address": "Köztársaság utca 38.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Debreczeniné Kovács Piroska",
+    "postalCode": "7020",
+    "city": "Dunaföldvár",
+    "address": "Kéri utca 71.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "RETTA Bt.",
+    "postalCode": "2400",
+    "city": "Dunaújváros",
+    "address": "Bercsényi út 4",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Trafikferr Bt.",
+    "postalCode": "2400",
+    "city": "Dunaújváros",
+    "address": "Korányi Sándor u. 1.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "JANKÓ ZOLTÁNNÉ EV",
+    "postalCode": "7400",
+    "city": "Kaposvár",
+    "address": "Madár utca 14",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Lengyel Hajnalka ev.",
+    "postalCode": "7300",
+    "city": "Komló",
+    "address": "Pécsi u. 1.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Takács Sándorné egyéni vállalkozó",
+    "postalCode": "7030",
+    "city": "Paks",
+    "address": "Dózsa György út 3.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Kovro Trafik Bt.",
+    "postalCode": "7624",
+    "city": "Pécs",
+    "address": "Bajcsy Zs. utca 25.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Barbakán-Trafik Bt.",
+    "postalCode": "7624",
+    "city": "Pécs",
+    "address": "Barbakán tér 1.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Magyar Németh Bt.",
+    "postalCode": "7634",
+    "city": "Pécs",
+    "address": "Rácvárosi út 11.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Cseh Iván ev.",
+    "postalCode": "7081",
+    "city": "Simontornya",
+    "address": "Bem utca 2.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Balázs Zoltánné",
+    "postalCode": "8600",
+    "city": "Siófok",
+    "address": "Attila u.74.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Sendex Trafik Bt",
+    "postalCode": "8600",
+    "city": "Siófok",
+    "address": "Bajcsy Zsilinszky utca 110.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Bene Attila Lajos Egyéni vállalkozó",
+    "postalCode": "8600",
+    "city": "Siófok",
+    "address": "Fő u. 83.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Fekete Zoltán Antal",
+    "postalCode": "8600",
+    "city": "Siófok",
+    "address": "Zamárdi u. 1-2",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "HO-VA Trafik Bt.",
+    "postalCode": "8622",
+    "city": "Szántód",
+    "address": "Nyár utca 2.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Pásztor Istvánné",
+    "postalCode": "7130",
+    "city": "Tolna",
+    "address": "Alkotmány.u.9",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Ambrus Ágnes Réka",
+    "postalCode": "1173",
+    "city": "Budapest",
+    "address": "Borsó utca 64/B.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Nemes-Tabak Bt.",
+    "postalCode": "1173",
+    "city": "Budapest",
+    "address": "Pesti út 211.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Nemzeti Dohánybolt",
+    "postalCode": "1091",
+    "city": "Budapest",
+    "address": "Üllői út 137",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Kishunor Bt",
+    "postalCode": "1148",
+    "city": "Budapest",
+    "address": "Nagy Lajos király útja 100.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Nagymaros Tabak Bt.",
+    "postalCode": "2621",
+    "city": "Verőce",
+    "address": "Rákóczi utca 33.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Kisvasút Tavak Bt(régi:Finta Dezsőné)",
+    "postalCode": "2623",
+    "city": "Kismaros",
+    "address": "Tábor út 1942 hrsz",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Nagymaros Tabak Bt.",
+    "postalCode": "2626",
+    "city": "Nagymaros",
+    "address": "Magyar utca 21.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Maglódi Ágnes Dohánytrafik Bt.",
+    "postalCode": "2112",
+    "city": "Veresegyház",
+    "address": "Budapesti út 108",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Mészáros Tibor",
+    "postalCode": "2100",
+    "city": "Gödöllő",
+    "address": "Szőlő utca 10.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Lelikné Nagy Zita",
+    "postalCode": "2117",
+    "city": "Isaszeg",
+    "address": "Kossuth Lajos út 25.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "AG TRAFIK BT.",
+    "postalCode": "1156",
+    "city": "Budapest",
+    "address": "Páskomliget utca 49.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Dorkó Zsolt",
+    "postalCode": "1165",
+    "city": "Budapest",
+    "address": "Veres Péter út 114",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "M-Braun Bt.",
+    "postalCode": "1173",
+    "city": "Budapest",
+    "address": "Pesti út 70.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Domino Tabak Bt",
+    "postalCode": "1173",
+    "city": "Budapest",
+    "address": "Pesti út 237/H",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Keresztur Tabakshop Bt.",
+    "postalCode": "1172",
+    "city": "Budapest",
+    "address": "Naplás út 11",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Bagóra Bt",
+    "postalCode": "1107",
+    "city": "Budapest",
+    "address": "Ceglédi út 1-3",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Rózsa Dohány Bt.",
+    "postalCode": "1142",
+    "city": "Budapest",
+    "address": "Stadionok metróállomás",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Domino Tabak Bt",
+    "postalCode": "1161",
+    "city": "Budapest",
+    "address": "János utca 196",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Nagydohány-1161 Bt.",
+    "postalCode": "1162",
+    "city": "Budapest",
+    "address": "Rákosi út 142-146.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Bagó Trafik Bt.",
+    "postalCode": "1144",
+    "city": "Budapest",
+    "address": "Csertő utca 5-7.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Koki Trafik Betéti Társaság",
+    "postalCode": "2600",
+    "city": "Vác",
+    "address": "Földváry tér 6.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "dr. Kalecz Gergely",
+    "postalCode": "2600",
+    "city": "Vác",
+    "address": "Szent István tér 3.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Komárné Lipp Gyöngyike",
+    "postalCode": "2162",
+    "city": "Őrbottyán",
+    "address": "Fő utca 68",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "NOE G-PLUSZ Bt",
+    "postalCode": "2100",
+    "city": "Gödöllő",
+    "address": "Gábor Áron utca 2-10.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Szentesiné Józer Anita",
+    "postalCode": "2143",
+    "city": "Kistarcsa",
+    "address": "Szabadság út.54.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Trafikal Trade Betéti Társaság",
+    "postalCode": "1106",
+    "city": "Budapest",
+    "address": "Kerepesi utca 73.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Rácz Tabak Bt.",
+    "postalCode": "1104",
+    "city": "Budapest",
+    "address": "Fehér út 1.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Bono Contact Bt.",
+    "postalCode": "2011",
+    "city": "Budakalász",
+    "address": "OMSZK Park 4. Auchan",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Almádi András ev.",
+    "postalCode": "2013",
+    "city": "Pomáz",
+    "address": "Vasútsor 10.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Szabó Noémi Erzsébet ev.",
+    "postalCode": "2013",
+    "city": "Pomáz",
+    "address": "Szőlőtelep utca 16",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "2bacco Bt.",
+    "postalCode": "2083",
+    "city": "Solymár",
+    "address": "Terstyánszky Ödön utca 94.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "MIZACOR-trade 2002 Bt.",
+    "postalCode": "1036",
+    "city": "Budapest",
+    "address": "Bécsi út 43.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "NAGY A DOHÁNY BT.",
+    "postalCode": "1036",
+    "city": "Budapest",
+    "address": "Pacsirtamező u. 22/b",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Royal Trafik Bt.",
+    "postalCode": "1035",
+    "city": "Budapest",
+    "address": "Szentendrei út 36/a",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Dohányáruda Bt.",
+    "postalCode": "1116",
+    "city": "Budapest",
+    "address": "Fehérvári út 24.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Trafikmax Bt.",
+    "postalCode": "1039",
+    "city": "Budapest",
+    "address": "Csobánka tér 3.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Trafikárium Betéti Társaság",
+    "postalCode": "1116",
+    "city": "Budapest",
+    "address": "Sopron u. 60.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "AG TRAFIK BT.",
+    "postalCode": "1133",
+    "city": "Budapest",
+    "address": "Gogol utca 23.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "PSB Tabak Bt",
+    "postalCode": "1026",
+    "city": "Budapest",
+    "address": "Kelemen László u. 1.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Szulimán Tobacco Bt.",
+    "postalCode": "1136",
+    "city": "Budapest",
+    "address": "Hollán Ernő utca 4.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Hauck Tobacco Bt.",
+    "postalCode": "1137",
+    "city": "Budapest",
+    "address": "Katona József utca 5.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Bagó Trafik Bt.",
+    "postalCode": "1042",
+    "city": "Budapest",
+    "address": "Király utca 27/2.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Trafikárium Betéti Társaság",
+    "postalCode": "1119",
+    "city": "Budapest",
+    "address": "Etele út 32.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "The Tobacconist Bt.",
+    "postalCode": "1024",
+    "city": "Budapest",
+    "address": "Lövőház utca 17.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Vsmith Tobacco Bt.",
+    "postalCode": "1024",
+    "city": "Budapest",
+    "address": "Margit krt. 105.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "AG TRAFIK BT.",
+    "postalCode": "1044",
+    "city": "Budapest",
+    "address": "Megyeri út 12.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Cigimarket Bt.",
+    "postalCode": "1037",
+    "city": "Budapest",
+    "address": "Bécsi út 265.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Holló Tabak BT",
+    "postalCode": "1112",
+    "city": "Budapest",
+    "address": "Péterhegyi lejtő 36. dohánybolt",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Arany Pipafüst Bt.",
+    "postalCode": "1118",
+    "city": "Budapest",
+    "address": "Rétköz utca 10/B",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Alfa Trafik Bt",
+    "postalCode": "1042",
+    "city": "Budapest",
+    "address": "Rózsa utca 12.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Tobacco World Bt.",
+    "postalCode": "1137",
+    "city": "Budapest",
+    "address": "Szent István krt. 12.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "MagikTrafik Bt.",
+    "postalCode": "1135",
+    "city": "Budapest",
+    "address": "Lehel út 64-68.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Vudent Cigarette Bt.",
+    "postalCode": "1126",
+    "city": "Budapest",
+    "address": "Fodor utca 31.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Mázsa Tabak Bt",
+    "postalCode": "1126",
+    "city": "Budapest",
+    "address": "Királyhágó utca 2.alagsor",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Vident Tabak Bt.",
+    "postalCode": "1124",
+    "city": "Budapest",
+    "address": "Kiss János altábornagy u. 50/A.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "BRAUN CSABA",
+    "postalCode": "2085",
+    "city": "Pilisvörösvár",
+    "address": "Fő út 106",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Braun Janos ev.",
+    "postalCode": "2085",
+    "city": "Pilisvörösvár",
+    "address": "Fő út 54",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Molnár Mária",
+    "postalCode": "2085",
+    "city": "Pilisvörösvár",
+    "address": "Széchenyi utca 2",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "ILLÉS ANDREA",
+    "postalCode": "2084",
+    "city": "Pilisszentíván",
+    "address": "SZABADSÁG U.224/9",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Katabak Bt.",
+    "postalCode": "2000",
+    "city": "Szentendre",
+    "address": "Dózsa György út 20.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Kozek Krisztina ev.",
+    "postalCode": "2083",
+    "city": "Solymár",
+    "address": "Vasút utca 17.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Vraskó János e.v.",
+    "postalCode": "2083",
+    "city": "Solymár",
+    "address": "Rózsika utca 2/B",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Vazul-Tabac 2013 Bt.",
+    "postalCode": "2023",
+    "city": "Dunabogdány",
+    "address": "Kossuth Lajos utca 61.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Vazul-Tabac 2013 Bt.",
+    "postalCode": "2025",
+    "city": "Visegrád",
+    "address": "Rév utca 3.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Tündi Trafik Betéti Társaság",
+    "postalCode": "1116",
+    "city": "Budapest",
+    "address": "Temesvár utca 1.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Vanicsek Mártonné Zsiga Szilvia",
+    "postalCode": "2085",
+    "city": "Pilisvörösvár",
+    "address": "Görgey utca 50",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Satarel Trafik Ker. Bt",
+    "postalCode": "1042",
+    "city": "Budapest",
+    "address": "Lebstück Mária utca 45.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Katabak Bt",
+    "postalCode": "2000",
+    "city": "Szentendre",
+    "address": "Bükkös part 26/A",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Trafikárium Betéti Társaság",
+    "postalCode": "1116",
+    "city": "Budapest",
+    "address": "Mezőkövesd utca 1.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Piros 2000 Bt.",
+    "postalCode": "2200",
+    "city": "Monor",
+    "address": "4-es főút 34-es km",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Hajdúk Dohány Bt.",
+    "postalCode": "2045",
+    "city": "Törökbálint",
+    "address": "Jókai utca 1.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Vudent Cigarette Bt.",
+    "postalCode": "1188",
+    "city": "Budapest",
+    "address": "Nagykőrösi út 73.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "NF-Tabak Bt.",
+    "postalCode": "2071",
+    "city": "Páty",
+    "address": "Rákóczi út 54.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Saskáné Kadenszki Rozália",
+    "postalCode": "2225",
+    "city": "Üllő",
+    "address": "Pesti út 15",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Mani-Trafik Bt.",
+    "postalCode": "2721",
+    "city": "Pilis",
+    "address": "Rákóczi utca 41.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Udvardy Olivér ev.",
+    "postalCode": "2072",
+    "city": "Zsámbék",
+    "address": "Akadémia u. 2.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Farkas Erika egyéni vállalkozó",
+    "postalCode": "2370",
+    "city": "Dabas",
+    "address": "Bartók Béla út 82.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Borsod Tabak Bt",
+    "postalCode": "2371",
+    "city": "Dabas",
+    "address": "Fő út 40.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Nagy A Dohány Bt.",
+    "postalCode": "1239",
+    "city": "Budapest",
+    "address": "Grassalkovich út 171",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Nagy A Dohány Bt.",
+    "postalCode": "1205",
+    "city": "Budapest",
+    "address": "Határ út 95",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Tálas Trafik Bt",
+    "postalCode": "1194",
+    "city": "Budapest",
+    "address": "Hofherr Albert utca 38-40",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "HORI Trafik Betéti Társaság",
+    "postalCode": "2040",
+    "city": "Budaörs",
+    "address": "Kandó Kálmán út 2",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Nájkopex Trafik Bt.",
+    "postalCode": "1203",
+    "city": "Budapest",
+    "address": "Kossuth L. u. 31./B",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Flőrich József  egyéni vállalkozó",
+    "postalCode": "2376",
+    "city": "Hernád",
+    "address": "Köztársaság út 72/B.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Gyors Trafik Bt",
+    "postalCode": "2200",
+    "city": "Monor",
+    "address": "Móricz Zsigmond u 29",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Mészáros János egyéni vállalkozó",
+    "postalCode": "2040",
+    "city": "Budaörs",
+    "address": "Sport utca 2-4.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "FEDOMA KERESKEDELMI Bt.",
+    "postalCode": "2510",
+    "city": "Dorog",
+    "address": "Széchenyi lakótelep 4.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Csepp tabak bt",
+    "postalCode": "2360",
+    "city": "Gyál",
+    "address": "Széchenyi utca 93.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Bentrafik Bt.",
+    "postalCode": "2230",
+    "city": "Gyömrő",
+    "address": "Táncsics Mihály utca 37.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Kozmix Trafik Bt.",
+    "postalCode": "1182",
+    "city": "Budapest",
+    "address": "Üllői út 745",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Sóron Ádám",
+    "postalCode": "2500",
+    "city": "Esztergom",
+    "address": "Visegrádi út 0906/1  hrsz",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "HORI Trafik Betéti Társaság",
+    "postalCode": "2060",
+    "city": "Bicske",
+    "address": "Kossuth Lajos út 2",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Szilter King Bt.",
+    "postalCode": "2367",
+    "city": "Újhartyán",
+    "address": "Hunyadi János utca 39",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Dohány-Trend Bt.",
+    "postalCode": "2040",
+    "city": "Budaörs",
+    "address": "Budaörsi McDonald's HRSZ. 0101.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Kovács Mária",
+    "postalCode": "2200",
+    "city": "Monor",
+    "address": "Deák Ferenc utca 2",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Kári János Tobacco Bt.",
+    "postalCode": "2220",
+    "city": "Vecsés",
+    "address": "Üllői út 812",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Törőpex Dohány Bt.",
+    "postalCode": "1191",
+    "city": "Budapest",
+    "address": "M3 Kőbánya-Kispest",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Merényi Tamás ev.",
+    "postalCode": "2536",
+    "city": "Nyergesújfalu",
+    "address": "Kossuth L. 160.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Keszi Tabak-Shop Bt.",
+    "postalCode": "2092",
+    "city": "Budakeszi",
+    "address": "Dózsa György tér 1/A.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Király János",
+    "postalCode": "2660",
+    "city": "Balassagyarmat",
+    "address": "Rákóczi fejedelem út 38",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Fumare-Dott 2012 BT.",
+    "postalCode": "3654",
+    "city": "Bánréve",
+    "address": "Kossuth Lajos utca 1/B",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Tabak Diszkont Bt.",
+    "postalCode": "3300",
+    "city": "Eger",
+    "address": "Hatvani Kapu tér 9.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Dohányvár 2013 Bt.",
+    "postalCode": "3300",
+    "city": "Eger",
+    "address": "Sas út 1.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Bellei Attila ev.",
+    "postalCode": "3394",
+    "city": "Egerszalók",
+    "address": "Kossuth út 27.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "FULL TABAK BT.",
+    "postalCode": "3000",
+    "city": "HATVAN",
+    "address": "Horváth Mihály út 57.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Holló Trafik Bt",
+    "postalCode": "5100",
+    "city": "Jászberény",
+    "address": "Holló András utca 4",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Dávid Tabak Bt.",
+    "postalCode": "3700",
+    "city": "Kazincbarcika",
+    "address": "Mátyás király út 49.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Gyurkó Zsombor ev",
+    "postalCode": "3434",
+    "city": "Mályi",
+    "address": "Fő út 24.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Matyó Dohány Trafik BT.",
+    "postalCode": "3400",
+    "city": "Mezőkövesd",
+    "address": "Széchenyi u.44/b",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Király Tabak Bt.",
+    "postalCode": "3532",
+    "city": "Miskolc",
+    "address": "Andrássy Gyula utca 37.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Király Tabak Bt.",
+    "postalCode": "3533",
+    "city": "Miskolc",
+    "address": "Csermőkei út 207.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Király Tabak Bt.",
+    "postalCode": "3531",
+    "city": "Miskolc",
+    "address": "Győri kapu 24/D.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Kriskovics Tamás Ákosné",
+    "postalCode": "3600",
+    "city": "Ózd",
+    "address": "Vas köz 1.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Dávid Tabak Bt.",
+    "postalCode": "3770",
+    "city": "Sajószentpéter",
+    "address": "Bercsényi utca 2.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Ballerina Tabak Bt.",
+    "postalCode": "3121",
+    "city": "Somoskőújfalu",
+    "address": "Somosi út 115.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Semsey Attila",
+    "postalCode": "3900",
+    "city": "Szerencs",
+    "address": "Gyár út 14.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Kreczné Popovics Erzsébet",
+    "postalCode": "3910",
+    "city": "Tokaj",
+    "address": "Bajcsy-Zsilinszky Endre út 23.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Kutics Balázs Mihály ev.",
+    "postalCode": "8220",
+    "city": "Balatonalmádi",
+    "address": "Baross Gábor 2a",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Marton Tamás Egyéni vállalkozó",
+    "postalCode": "8175",
+    "city": "Balatonfűzfő",
+    "address": "Zombor u.40.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "KROP2013. Bt.",
+    "postalCode": "9200",
+    "city": "Mosonmagyaróvár",
+    "address": "József Attila utca 51.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Trafimax Bt ",
+    "postalCode": "8200",
+    "city": "Veszprém",
+    "address": "Dornyai út 4.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Csongor Trafik ",
+    "postalCode": "8000",
+    "city": "Székesfehérvár",
+    "address": "Rózsa u. 2",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Derecskei Gábor ev.",
+    "postalCode": "2483",
+    "city": "Gárdony",
+    "address": "Szabadság út 13.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "KO-RE-CT Hungary Bt.",
+    "postalCode": "9026",
+    "city": "Győr",
+    "address": "Szabadrév út/ Újbácsai út 12105/31.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Ujvári Trafik Bt.",
+    "postalCode": "2462",
+    "city": "Martonvásár",
+    "address": "Ady E. u. 6.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Martonosi Trafik Bt.",
+    "postalCode": "2462",
+    "city": "Martonvásár",
+    "address": "Dózsa Gy. u. 2.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Tabacchi Bt ",
+    "postalCode": "2890",
+    "city": "Tata",
+    "address": "Rákóczi F. utca 6.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "TABACCHI Betéti Társaság ",
+    "postalCode": "2800",
+    "city": "Tatabánya",
+    "address": "Ifjúmunkás út 57. 1. lph.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Bomon Trade Bt. ",
+    "postalCode": "2800",
+    "city": "Tatabánya",
+    "address": "Otelep u. 1.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "TobaccoMarket ",
+    "postalCode": "2831",
+    "city": "Tarján",
+    "address": "Vadász út 8",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Bomon Trade Bt. ",
+    "postalCode": "2800",
+    "city": "Tatabánya",
+    "address": "Gál István lakótelep 300.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Szepessy Árpádné",
+    "postalCode": "8230",
+    "city": "Balatonfüred",
+    "address": "Kisfaludy utca 2.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Szabó Zoltán Tamás ev.",
+    "postalCode": "8230",
+    "city": "Balatonfüred",
+    "address": "Petőfi Sándor u. 78.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Gaben Trafik Bt ",
+    "postalCode": "9025",
+    "city": "Győr",
+    "address": "Kossuth L. utca 30.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Beni Trafik Bt.",
+    "postalCode": "9000",
+    "city": "Győr",
+    "address": "Magyar utca 8.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Beni Trafik 2 Bt.",
+    "postalCode": "9028",
+    "city": "Győr",
+    "address": "Szent Imre út 59.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Fekete Attila ",
+    "postalCode": "9023",
+    "city": "Győr",
+    "address": "Tihanyi Árpád u 39/c",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Gaben Trafik Bt ",
+    "postalCode": "9024",
+    "city": "Győr",
+    "address": "Szauter Ferenc 4121/6",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Fekete Attila ",
+    "postalCode": "9024",
+    "city": "Győr",
+    "address": "Örkény I. u. 3",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "KDK Trafik Bt.",
+    "postalCode": "2900",
+    "city": "Komárom",
+    "address": "Bajcsy Zsilinszky u. 5",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Bán Trafik Betéti Társaság",
+    "postalCode": "2900",
+    "city": "Komárom",
+    "address": "Táncsics Mihály utca 3/C.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Tobacco Mór Bt.",
+    "postalCode": "8060",
+    "city": "Mór",
+    "address": "Deák F u 28.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Péntek Imre",
+    "postalCode": "8237",
+    "city": "Tihany",
+    "address": "Kossuth u. 21",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "STRIBL ÁGNES ev. ",
+    "postalCode": "8200",
+    "city": "Veszprém",
+    "address": "Budapest út 20-28.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Timu Dohány Bt.",
+    "postalCode": "8200",
+    "city": "Veszprém",
+    "address": "Cserhát lakótelep 6.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Hudi-Trafik Bt. ",
+    "postalCode": "8200",
+    "city": "Veszprém",
+    "address": "Egyetem u. 19.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Big Trafik Bt.",
+    "postalCode": "8200",
+    "city": "Veszprém",
+    "address": "Almádi út 21.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Kelemen Dezső ",
+    "postalCode": "9026",
+    "city": "Győr",
+    "address": "Kálóczy tér 10463hrsz",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Farkas Ákosné ",
+    "postalCode": "9021",
+    "city": "Győr",
+    "address": "Király u. 17",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Czuczu és Társa Bt. ",
+    "postalCode": "8000",
+    "city": "Székesfehérvár",
+    "address": "Sarló u 4",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Vasvári Trafik Bt.",
+    "postalCode": "9800",
+    "city": "Vasvár",
+    "address": "Alkotmány u. 95.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Vén-Plato Ker. és Szolg. Bt.",
+    "postalCode": "8296",
+    "city": "Monostorapáti",
+    "address": "Petőfi S. utca 22.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Vészi Trafik Bt.",
+    "postalCode": "8647",
+    "city": "Balatonmáriafürdő",
+    "address": "Keszeg u.12",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Kertész Pálné    E.V",
+    "postalCode": "9437",
+    "city": "Hegykő",
+    "address": "Kossuth Lajos utca 15",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Lajtos Tabak Bt.",
+    "postalCode": "9495",
+    "city": "Kópháza",
+    "address": "Határátkelő 068/2 hrsz.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "NÉMETH GERGELY E.V.",
+    "postalCode": "8868",
+    "city": "Letenye",
+    "address": "Szabadság tér 4.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Green Energy Trade Bt.",
+    "postalCode": "8800",
+    "city": "Nagykanizsa",
+    "address": "Dózsa György u. 1839/107 hrsz",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Léri-dohány Bt.",
+    "postalCode": "8800",
+    "city": "Nagykanizsa",
+    "address": "Récsei utca 26-28.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Alfa Dohány Bt",
+    "postalCode": "9700",
+    "city": "Szombathely",
+    "address": "Éhen Gyula tér 4.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Alfa Dohány Bt",
+    "postalCode": "9700",
+    "city": "Szombathely",
+    "address": "Verseny utca 30.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Fekete Zoltán Antal",
+    "postalCode": "8630",
+    "city": "Balatonboglár",
+    "address": "Dózsa György u. 13.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "MD Tabak Bt.",
+    "postalCode": "8638",
+    "city": "Balatonlelle",
+    "address": "Rákóczi u. 366.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Pilsner Bt.",
+    "postalCode": "8640",
+    "city": "Fonyód",
+    "address": "Béke utca 8058/12 hrsz.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Oszkár Trafik Bt.",
+    "postalCode": "8360",
+    "city": "Keszthely",
+    "address": "Bercsényi u.2/a",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Magyar Tabak Bt.",
+    "postalCode": "9730",
+    "city": "Kőszeg",
+    "address": "Rohonci u. 40. 3344/36A/1",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Alpok Tabak Bt.",
+    "postalCode": "9730",
+    "city": "Kőszeg",
+    "address": "Sörgyár utca 2.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "DSZT TRAFIK BT.",
+    "postalCode": "9400",
+    "city": "Sopron",
+    "address": "Bartók Béla u. 7.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Horváth Gábor",
+    "postalCode": "9330",
+    "city": "Kapuvár",
+    "address": "Deák Ferenc utca 1.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Oszkár Trafik Bt ",
+    "postalCode": "8360",
+    "city": "Keszthely",
+    "address": "Tapolcai út 35.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Tóth és Tóth Market Bt.",
+    "postalCode": "8900",
+    "city": "Zalaegerszeg",
+    "address": "Petőfi Sándor utca 20.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Opera Trafik és Lottózó",
+    "postalCode": "1065",
+    "city": "Budapest",
+    "address": "Hajós utca 23",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Nemzeti Dohánybolt",
+    "postalCode": "1142",
+    "city": "Budapest",
+    "address": "Ungvár utca 50/A",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Nemzeti Dohánybolt",
+    "postalCode": "2100",
+    "city": "Gödöllő",
+    "address": "Szabadság út 52",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Kuuba Trafik",
+    "postalCode": "1146",
+    "city": "Budapest",
+    "address": "Dózsa György út 13.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Nemzeti Dohánybolt Diósd",
+    "postalCode": "2049",
+    "city": "Diósd",
+    "address": "Balatoni út 6.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Liquor Store - Nemzeti Dohánybolt",
+    "postalCode": "6720",
+    "city": "Szeged",
+    "address": "Nagy Jenő u.1",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Nemzeti Dohánybolt ",
+    "postalCode": "8360",
+    "city": "Keszthely",
+    "address": "Kossuth Lajos u. 3",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "P-SZ Tabak Bt.",
+    "postalCode": "1214",
+    "city": "Budapest",
+    "address": "Zrínyi u. 1.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "P-SZ Tabak Bt.",
+    "postalCode": "1144",
+    "city": "Budapest",
+    "address": "Füredi u. 37.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "P-SZ Tabak Bt.",
+    "postalCode": "1211",
+    "city": "Budapest",
+    "address": "Ady Endre u. 58.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Cigar Tower",
+    "postalCode": "1051",
+    "city": "Budapest",
+    "address": "Erzsébet tér 7-8",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "CR Trafiq Bt.",
+    "postalCode": "6500",
+    "city": "Baja",
+    "address": "Eötvös József utca 1.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Vazul-Tabac 2013 Bt. ",
+    "postalCode": "2525",
+    "city": "Bajna",
+    "address": "Kossuth Lajos utca 16a",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Papp László",
+    "postalCode": "8164",
+    "city": "Balatonfőkajár",
+    "address": "Kossuth Lajos utca 31.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Szepessy Árpádné",
+    "postalCode": "8230",
+    "city": "Balatonfüred",
+    "address": "Kisfaludy utca 2.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Trafik Corner Bt.",
+    "postalCode": "5600",
+    "city": "Békéscsaba",
+    "address": "Illésházi 1.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "BIA-TRAFIK Bt.",
+    "postalCode": "2051",
+    "city": "Biatorbágy",
+    "address": "Nagy utca 59.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Illésné Puxler Éva",
+    "postalCode": "7150",
+    "city": "Bonyhád",
+    "address": "Fáy lakótelep 1.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Régi Duna Bt.",
+    "postalCode": "2011",
+    "city": "Budakalász",
+    "address": "Budai Út 8.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Márkus Milán",
+    "postalCode": "7013",
+    "city": "Cece",
+    "address": "Deák Ferenc út 24.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Horváth Krisztián E.V.",
+    "postalCode": "9500",
+    "city": "Celldömölk",
+    "address": "Sági u 12a fsz 2",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Német Adorján",
+    "postalCode": "2370",
+    "city": "Dabas",
+    "address": "Szent István Út 60.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Argosz Trade Bt",
+    "postalCode": "4028",
+    "city": "Debrecen",
+    "address": "Kassai utca 1.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Jofra Bt.",
+    "postalCode": "4032",
+    "city": "Debrecen",
+    "address": "Jerikó utca 16-18.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Lisztes Tiborné",
+    "postalCode": "4031",
+    "city": "Debrecen",
+    "address": "Kishegyesi út 142.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Délegy Tabak Bt.",
+    "postalCode": "2337",
+    "city": "Délegyháza",
+    "address": "Rákóczi Ferenc út 7.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Kezew Tabak Bt.",
+    "postalCode": "2120",
+    "city": "Dunakeszi",
+    "address": "Fő út 24.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Tasi Tabak Bt.",
+    "postalCode": "2120",
+    "city": "Dunakeszi",
+    "address": "Berek utca 2.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Tasi Tabak Bt.",
+    "postalCode": "2120",
+    "city": "Dunakeszi",
+    "address": "Fóti út 055/20 HRSZ",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Lazixer Bt.",
+    "postalCode": "2400",
+    "city": "Dunaújváros",
+    "address": "Vasmű út 33.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Tabakexpress Bt.",
+    "postalCode": "2030",
+    "city": "Érd",
+    "address": "Diósdi út 2-4.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Sóron Ádám",
+    "postalCode": "2500",
+    "city": "Esztergom",
+    "address": "Dobogókői út 84.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Sóron Ádám",
+    "postalCode": "2500",
+    "city": "Esztergom",
+    "address": "Galagonyás út 4.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Sóron Ádám",
+    "postalCode": "2500",
+    "city": "Esztergom",
+    "address": "Baross Gábor utca 32.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Coco Bongo Bt.",
+    "postalCode": "2360",
+    "city": "Gyál",
+    "address": "Pesti út 118",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Beni Trafik Bt",
+    "postalCode": "9000",
+    "city": "Győr",
+    "address": "Vörössipkás utca 1.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Csizmadia Imre",
+    "postalCode": "5700",
+    "city": "Gyula",
+    "address": "Temesvári út 169/A.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Kincses Anikó",
+    "postalCode": "5700",
+    "city": "Gyula",
+    "address": "Kossuth tér 27-33.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Kincses Anikó",
+    "postalCode": "5700",
+    "city": "Gyula",
+    "address": "Leiningen utca 8.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Piskolty Tibor",
+    "postalCode": "5700",
+    "city": "Gyula",
+    "address": "Béke sugárút 4.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "TORMA Trafik Bt.",
+    "postalCode": "8380",
+    "city": "Hévíz",
+    "address": "Park utca 1.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Molnár Zsolt",
+    "postalCode": "6800",
+    "city": "Hódmezővásárhely",
+    "address": "Hódi Pál u.11.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Perei János",
+    "postalCode": "6800",
+    "city": "Hódmezővásárhely",
+    "address": "Andrássy utca 10-12.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Zsirosné Tóth Beatrix ",
+    "postalCode": "2365",
+    "city": "Inárcs",
+    "address": "Kakucsi út 41/5",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Stoner Tabak Bt.",
+    "postalCode": "7400",
+    "city": "Kaposvár",
+    "address": "Áchim u. 4.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "ZsR Trafik Bt.",
+    "postalCode": "7400",
+    "city": "Kaposvár",
+    "address": "Berzsenyi utca 9.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Tagu Duó Bt",
+    "postalCode": "6000",
+    "city": "Kecskemét",
+    "address": "Batthyány utca 18.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Bűnös Élvezetek Kicsiny Boltja",
+    "postalCode": "7624",
+    "city": "Pécs",
+    "address": "Ferencesek utcája 38",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Bazsó Péter Illés",
+    "postalCode": "6100",
+    "city": "Kiskunfélegyháza",
+    "address": "Gábor Áron utca 28.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Ménesi és Vörös Bt.",
+    "postalCode": "6100",
+    "city": "Kiskunfélegyháza",
+    "address": "Dr. Holló Lajos utca 24.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "M-SZÉD Bt.",
+    "postalCode": "6120",
+    "city": "Kiskunmajsa",
+    "address": "Félegyházi utca 16.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Zámbó István",
+    "postalCode": "4600",
+    "city": "Kisvárda",
+    "address": "Széchenyi út. 760/3 hrsz",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Csizmadia Judit Ibolya",
+    "postalCode": "7300",
+    "city": "Komló",
+    "address": "Bem utca 12.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Régi Duna Bt.",
+    "postalCode": "2016",
+    "city": "Leányfalu",
+    "address": "Móricz Zsigmond út 171.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Vazul-Tabac 2013 Bt.",
+    "postalCode": "2518",
+    "city": "Leányvár",
+    "address": "Bécsi utca 54.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Buna Gábor",
+    "postalCode": "8700",
+    "city": "Marcali",
+    "address": "Rákóczi utca 17.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Piros 2000 Bt.",
+    "postalCode": "2200",
+    "city": "Monor",
+    "address": "Gém utca 1.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Sőrés László",
+    "postalCode": "4320",
+    "city": "Nagykálló",
+    "address": "Bátori út 76.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Németh Ramóna",
+    "postalCode": "8248",
+    "city": "Nemesvámos",
+    "address": "Fészek u. 1/1.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "WEST-REX 21 Bt",
+    "postalCode": "4400",
+    "city": "Nyíregyháza",
+    "address": "Északi körút 1",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Szabó Ferenc",
+    "postalCode": "7030",
+    "city": "Paks",
+    "address": "Tolnai út 3.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Menkó ker. szolg. Bt.",
+    "postalCode": "2119",
+    "city": "Pécel",
+    "address": "Maglódi út 82",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Pipaház Bt.",
+    "postalCode": "2119",
+    "city": "Pécel",
+    "address": "Rákos utca 1.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Horváth Attila",
+    "postalCode": "7622",
+    "city": "Pécs",
+    "address": "Nagy Lajos király útja 12.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Magyar Németh Bt.",
+    "postalCode": "7634",
+    "city": "Pécs",
+    "address": "Magyarürögi út 58/1",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Pi-Pál Bt.",
+    "postalCode": "2074",
+    "city": "Perbál",
+    "address": "Fő utca 38.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Bene Krisztián",
+    "postalCode": "4090",
+    "city": "Polgár",
+    "address": "Táncsics M. utca 1.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Pomóthy Attila",
+    "postalCode": "2459",
+    "city": "Rácalmás",
+    "address": "Széchenyi tér 14.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Rss Tabak Bt.",
+    "postalCode": "2300",
+    "city": "Ráckeve",
+    "address": "Kossuth Lajos utca 98-100",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "KORNIS TIBORNÉ",
+    "postalCode": "4465",
+    "city": "Rakamaz",
+    "address": "Szent I. út 152",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "CSÁKI ÉVA",
+    "postalCode": "6762",
+    "city": "Sándorfalva",
+    "address": "Szent István utca 63.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Krencz Trafik Bt.",
+    "postalCode": "7000",
+    "city": "Sárbogárd",
+    "address": "Ady Endre út 21.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Krisztina Tabak Bt.",
+    "postalCode": "9600",
+    "city": "Sárvár",
+    "address": "Rákóczi utca 16-18.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Nyugattabak Kkt.",
+    "postalCode": "9600",
+    "city": "Sárvár",
+    "address": "Rákóczi u. 43/A",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Bene Attila Lajos",
+    "postalCode": "8600",
+    "city": "Siófok",
+    "address": "Fő utca 43.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Nagy László",
+    "postalCode": "8600",
+    "city": "Siófok",
+    "address": "Sió utca 10.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Bere Andris",
+    "postalCode": "1214",
+    "city": "Budapest",
+    "address": "Vénusz utca 13-15",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Kelemenné Péczka Tünde",
+    "postalCode": "6230",
+    "city": "Soltvadkert",
+    "address": "Bocskai István u. 19",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "BIACSICS GÁBOR",
+    "postalCode": "9400",
+    "city": "Sopron",
+    "address": "IPAR KÖRÚT 31",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Lajtos Tabak Bt.",
+    "postalCode": "9400",
+    "city": "Sopron",
+    "address": "Höflányi utca 45",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "HoP-Trafik Bt",
+    "postalCode": "5540",
+    "city": "Szarvas",
+    "address": "Kazinczy u 1",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "HORI Trafik Betéti Társaság",
+    "postalCode": "8000",
+    "city": "Székesfehérvár",
+    "address": "Holland fasor 1.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "President Bt.",
+    "postalCode": "8000",
+    "city": "Székesfehérvár",
+    "address": "Távirda u. 19.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Royap Tobacco",
+    "postalCode": "8000",
+    "city": "Székesfehérvár",
+    "address": "Rádió utca 1.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Demirell Bt",
+    "postalCode": "8000",
+    "city": "Székesfehérvár",
+    "address": "Kelemen Béla üzletsor 5447/9",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "MEKO-TRAFFIK Bt.",
+    "postalCode": "7100",
+    "city": "Szekszárd",
+    "address": "Rákóczi utca 25.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Régi Duna Bt.",
+    "postalCode": "2000",
+    "city": "Szentendre",
+    "address": "Széchenyi I. tér 37/4.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Menyhárt Attila",
+    "postalCode": "2133",
+    "city": "Sződliget",
+    "address": "Határ utca 41.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Somos Anikó",
+    "postalCode": "5000",
+    "city": "Szolnok",
+    "address": "Thököly út 6.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Baranyai Tibor",
+    "postalCode": "9700",
+    "city": "Szombathely",
+    "address": "Gazdag Erzsi utca 12.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Baranyai Tibor",
+    "postalCode": "9700",
+    "city": "Szombathely",
+    "address": "Kiskar utca 5903/4 hrsz.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Németh Bt.",
+    "postalCode": "9700",
+    "city": "Szombathely",
+    "address": "Arad u.2.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Régi Duna Bt.",
+    "postalCode": "2022",
+    "city": "Tahitótfalu",
+    "address": "Szabadság tér 4.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Éberhardt Péter ",
+    "postalCode": "2890",
+    "city": "Tata",
+    "address": "Ady Endre út 43.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "G Bónusz Bt.",
+    "postalCode": "2890",
+    "city": "Tata",
+    "address": "Május 1 Út. Hrsz:1879/19",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Talizmán Tabak Bt.",
+    "postalCode": "2800",
+    "city": "Tatabánya",
+    "address": "Győri u. 27.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Dori László",
+    "postalCode": "2375",
+    "city": "Tatárszentgyörgy",
+    "address": "Kossuth Lajos 73",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Jónás Csaba",
+    "postalCode": "5430",
+    "city": "Tiszaföldvár",
+    "address": "Kossuth utca 200.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Jónás Csaba",
+    "postalCode": "5430",
+    "city": "Tiszaföldvár",
+    "address": "Malom út 12",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Pető Tamás",
+    "postalCode": "2316",
+    "city": "Tököl",
+    "address": "Fő út 40",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Bagaretta Bt.",
+    "postalCode": "2600",
+    "city": "Vác",
+    "address": "Deákvári főtér 8304 HRSZ",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Barokk Főtér Bt",
+    "postalCode": "2600",
+    "city": "Vác",
+    "address": "Árpád út 87.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Salánki Mária",
+    "postalCode": "4800",
+    "city": "Vásárosnamény",
+    "address": "Jókai út 23.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Pellérdyné Bodrácska Dóra Katalin",
+    "postalCode": "2621",
+    "city": "Verőce",
+    "address": "Árpád út 1",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Profi Trafik Bt.",
+    "postalCode": "8200",
+    "city": "Veszprém",
+    "address": "Jutasi utca 3.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Profi Trafik Bt.",
+    "postalCode": "8200",
+    "city": "Veszprém",
+    "address": "Mindszenty József utca 4.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "TJT-Color 97 Bt",
+    "postalCode": "8314",
+    "city": "Vonyarcvashegy",
+    "address": "Kossuth Lajos utca 1",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Dr. Mateisz Renáta",
+    "postalCode": "8900",
+    "city": "Zalaegerszeg",
+    "address": "Stadion u. 5.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Herbi Tabak Bt.",
+    "postalCode": "8900",
+    "city": "Zalaegerszeg",
+    "address": "Széchenyi tér 1.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Tobacco Heaven BT",
+    "postalCode": "1061",
+    "city": "Budapest",
+    "address": "Dessewffy utca 22",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Szondi Trafik Bt.",
+    "postalCode": "1063",
+    "city": "Budapest",
+    "address": "Izabella utca 81.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Bagó Trafik Bt.",
+    "postalCode": "1076",
+    "city": "Budapest",
+    "address": "Thököly út 2.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Urmily Dohány Bt",
+    "postalCode": "1077",
+    "city": "Budapest",
+    "address": "Király utca 51.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Práter Pro Bt",
+    "postalCode": "1083",
+    "city": "Budapest",
+    "address": "Práter utca 30-32",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "KIMO Tabak Bt.",
+    "postalCode": "1085",
+    "city": "Budapest",
+    "address": "József krt. 66.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "AGTRAFIK Bt.",
+    "postalCode": "1086",
+    "city": "Budapest",
+    "address": "Diószeghy Sámuel utca 15.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Indigó Trafik Bt.",
+    "postalCode": "1145",
+    "city": "Budapest",
+    "address": "Róna u. 153",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Kvintker Bt.",
+    "postalCode": "1145",
+    "city": "Budapest",
+    "address": "Egressy 9a",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "P-SZ Tabak Bt.",
+    "postalCode": "1147",
+    "city": "Budapest",
+    "address": "Füredi út 37. (PENNY)",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Hunters Tobacco Bt.",
+    "postalCode": "1149",
+    "city": "Budapest",
+    "address": "Nagy Lajos király útja 189.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Indigó Trafik Bt.",
+    "postalCode": "1152",
+    "city": "Budapest",
+    "address": "Régi fóti u. 1.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "N & J Family Dohány Bt",
+    "postalCode": "1162",
+    "city": "Budapest",
+    "address": "Mátyás király út 58.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Tubak Trafik Bt.",
+    "postalCode": "1163",
+    "city": "Budapest",
+    "address": "Veres Péter utca 15c",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Szíj József Máté",
+    "postalCode": "1173",
+    "city": "Budapest",
+    "address": "Újlak utca 146",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Bident Dohány Bt.",
+    "postalCode": "1182",
+    "city": "Budapest",
+    "address": "Gyékény tér 1",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Nagy Márta",
+    "postalCode": "1183",
+    "city": "Budapest",
+    "address": "Üllői út 661",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Pazsovin Dohány Bt.",
+    "postalCode": "1202",
+    "city": "Budapest",
+    "address": "Nagysándor József u. 170",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Erdei János László",
+    "postalCode": "1204",
+    "city": "Budapest",
+    "address": "Lázár utca 94.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "P-SZ Tabak Bt.",
+    "postalCode": "1215",
+    "city": "Budapest",
+    "address": "Ady Endre út 58.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Martinkertváros-Trafik",
+    "postalCode": "3528",
+    "city": "Miskolc",
+    "address": "Kisfaludy Károly utca 61",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Őri Trafik",
+    "postalCode": "4336",
+    "city": "Őr",
+    "address": "József Attila utca 32A",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Nemzeti Dohánybolt - Nógrádi utca",
+    "postalCode": "1125",
+    "city": "Budapest",
+    "address": "Nógrádi utca 39",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Elszív-Lak Trafik",
+    "postalCode": "1203",
+    "city": "Budapest",
+    "address": "Széchenyi utca 5-7",
+    "lat": "47.4394568",
+    "lon": "19.1017748"
+  },
+  {
+    "name": "TG Tabak Bt. ",
+    "postalCode": "9400",
+    "city": "Sopron",
+    "address": "Lackner Kristóf utca 9.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Happy Trafik Bt.",
+    "postalCode": "9400",
+    "city": "Sopron",
+    "address": "Mátyáskirály u. 3.",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Krisztina Tabak Bt. ",
+    "postalCode": "9600",
+    "city": "Sopron",
+    "address": "Rákóczi utca 16-18",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Krisztina Tabak Bt. ",
+    "postalCode": "9700",
+    "city": "Szombathely",
+    "address": "Komlósi Ferenc utca 41",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Anita Tabak bt.",
+    "postalCode": "9423",
+    "city": "Ágfalva",
+    "address": "Fő u 71",
+    "lat": "47.6905465",
+    "lon": "16.5136699"
+  },
+  {
+    "name": "Trans-Várda Bt.",
+    "postalCode": "4600",
+    "city": "Kisvárda",
+    "address": "Vasút út 2.",
+    "lat": "48.2092692",
+    "lon": "22.0782369"
+  },
+  {
+    "name": "Trafik-Kisvirág",
+    "postalCode": "4060",
+    "city": "Balmazújváros",
+    "address": "Nádudvari utca 11",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Trafik Barcs",
+    "postalCode": "7570",
+    "city": "Barcs",
+    "address": "Bajcsy Zsilinszky utca 21",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Alba Cigar",
+    "postalCode": "8000",
+    "city": "Székesfehérvár",
+    "address": "Rákóczi utca 1.",
+    "lat": "47.1921265",
+    "lon": "18.4125757"
+  },
+  {
+    "name": "Trafik Corner",
+    "postalCode": "5600",
+    "city": "Békéscsaba",
+    "address": "Illésházi u. 1",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Spiritstore",
+    "postalCode": "",
+    "city": "6000",
+    "address": "Kálvin tér",
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "name": "Tabac 4 you Bt.",
+    "postalCode": "1033",
+    "city": "Budapest",
+    "address": "Szentlélek tér 3",
+    "lat": "",
+    "lon": ""
+  }
+]
