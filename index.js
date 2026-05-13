@@ -1,4 +1,13 @@
-require('dotenv').config();
+// 🔹 Token beolvasása
+const token = process.env.BOT_TOKEN?.trim();
+
+if (!token) {
+  console.error("❌ BOT_TOKEN nincs beállítva Render Environment Variables alatt!");
+  process.exit(1);
+}
+
+client.login(token);
+
 const { Client, GatewayIntentBits, EmbedBuilder, ActionRowBuilder, ButtonBuilder, ButtonStyle, Events } = require('discord.js');
 const fs = require('fs');
 
@@ -117,7 +126,7 @@ async function keepAliveReconnect() {
     if (!client.isReady()) {
       console.log("⚠️ Bot is not connected — trying to reconnect...");
       client.destroy(); // bontjuk a régi, lefagyott kapcsolatot
-      await client.login(process.env.BOT_TOKEN);
+      await client.login(token);
       console.log("✅ Bot reconnected successfully!");
     } else {
       console.log("✅ Bot connection is healthy.");
